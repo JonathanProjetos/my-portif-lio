@@ -133,7 +133,7 @@ function About() {
                 color="primary"
                 backgroudcolor="white"
                 sx={{ color:'black' }}
-                href="https://docs.google.com/document/d/1PZlAgKIy0eBQIAsFTV4uZmPJihh5fpVqTQdm1T0Z4DE/edit#"
+                href="https://drive.google.com/file/d/1cYpkUrWuKqUZjFEl3SFLIa-XhFxQQs_3/view?usp=sharing"
                 target="_blank"
               >
                 <ContactPageIcon fontSize="inherit" />
