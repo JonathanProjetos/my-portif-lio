@@ -31,7 +31,7 @@ function BoxSx() {
         >
           Jonathan Santos
           <span>&copy;</span>
-          , 2022
+          , 2024
         </Box>
         <Box
           display='flex'
