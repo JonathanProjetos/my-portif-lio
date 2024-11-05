@@ -3,7 +3,7 @@ import Footer from '../components/Footer'
 import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import perfil from '../images/profile/Minha-foto2.jpg'
+import perfil from '../images/profile/Minha-foto2.jpeg'
 import message from '../util/Message';
 import IconButton from '@mui/material/IconButton';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
@@ -135,7 +135,7 @@ function About() {
                 color="primary"
                 backgroudcolor="white"
                 sx={{ color:'black' }}
-                href="https://drive.google.com/file/d/1cYpkUrWuKqUZjFEl3SFLIa-XhFxQQs_3/view?usp=sharing"
+                   href="https://drive.google.com/file/d/1N8djCteHiZKurZCqftpKsXRktpFan-ZY/view?usp=sharing"
                 target="_blank"
               >
                 <ContactPageIcon fontSize="inherit" />
